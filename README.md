@@ -8,6 +8,9 @@ Scaled the data to 1 million rows to simulate a larger dataset.
 Forecasted sales for 2023 using an ARIMA model in Python.
 Visualized everything with a forecast plot and a Power BI dashboard.
 
+<img width="630" alt="Dashboard" src="https://github.com/user-attachments/assets/22711613-c165-46b4-8c8a-2ccf996cf5cb" />
+
+
 You’ll find all the code, results, and instructions here to run it yourself!
 What’s in the Project Folder? 📂
 Here’s a quick look at the project structure:
